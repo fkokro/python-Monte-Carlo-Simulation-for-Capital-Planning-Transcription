@@ -19,3 +19,6 @@ Example Problem:
 		- 68% of the time $150k to $350k
 		- 95% of the time $50k to $450k
 		- 99% of the time -$50 to $550k
+
+
+Refer to the model development juypter notebook. We developed a model analyzing the above problem using NPV & IRR, then simulate this model using Monte Carlo simulation to evalute this problem further. 
