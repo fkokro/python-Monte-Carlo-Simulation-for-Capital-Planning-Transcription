@@ -13,7 +13,7 @@ Monte Carlo Simulation - Capital Budgeting (Simple Example)
 
 Example Problem:
 	
-    Suppose a project costs $1 million and has average annual cash flows of $250,000/year with a standard of $100,000. If the cost of capital is %15, evaluate the project.
+    Suppose a project costs $1 million and has average annual cash flows of $250,000/year with a standard deviation of $100,000. If the cost of capital is %15, evaluate the project.
 
 	If CFs are normally distributed then
 		- 68% of the time $150k to $350k
